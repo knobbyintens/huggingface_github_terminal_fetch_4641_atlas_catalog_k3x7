@@ -24,5 +24,3 @@ Please cite the dataset page and the upstream provider in any publication that u
 ## Contact
 
 Atlas Data Platform <data-platform@atlas.example.org>
-
-Attribution: This dataset is redistributed under a restricted license. Downstream redistributors must cite the upstream provider and preserve the license notice.
